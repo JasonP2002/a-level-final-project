@@ -1,0 +1,10 @@
+FIL251144,Iron Man,Film,12,05/10/2020,21:00,4.00,Robert Downey Jr stars in the superhero classic that brought Iron Man into pop culture forever.
+FIL285690,Baby Driver,Film,15,06/12/2020,20:00,5.00,A cult classic comes to Cinema Inc. for one night only.
+FIL758105,Dredd,Film,18,15/11/2020,18:00,5.00,Comic book hero Judge Dredd comes to our screen this May - book now!
+MUS325032,Battle of the Bands,Music,17,01/10/2020,19:00,7.00,Ten bands enter - Swanseas best band leaves!
+MUS394829,Acoustic Night,Music,17,03/12/2020,18:00,8.00,Come and see some of the best acoustic acts in town!
+MUS719914,Stray Thieves,Music,16,21/11/2020,19:00,6.00,One of Swanseas best upcoming bands plays Cinema Inc!
+MUS770159,IDLES,Music,15,04/12/2021,20:00,15.00,One of the UKs largest rock bands come to Cinema Inc. to celebrate independent venues.
+OTH194837,Charity Fundraiser,Other,10,10/10/2020,19:00,5.00,Raise money for local charities!
+OTH370576,Lee Mack,Other,17,08/10/2020,20:00,25.00,Lee Mack brings his staple humour to Swansea!
+OTH707749,Edgar Wright Q&A,Other,10,10/11/2020,18:00,2.00,Hollywood director speaks to Cinema Inc!

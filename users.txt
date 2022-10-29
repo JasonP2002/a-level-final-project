@@ -1,0 +1,16 @@
+CUS186092,vickie_conway@hotmail.com,cinemapass1979,Vickie,Conway,01792349283,20 Green Lane,Morriston,Swansea,SA6 5RH,01/07/1979
+CUS191151,beckyjohns01@hotmail.com,4k3QQDuQL7P8Hg,Becky,Johns,01725938211,12 Wayne Way,Cwmbwrla,Swansea,SA4 3AS,10/10/2001
+CUS349911,willparker@gmail.com,cinemaparker837,Will,Parker,01728372812,34 Orchid Lane,Morriston,Swansea,SA5 2SA,01/05/2000
+CUS560169,djacobs1980@hotmail.com,dhru87BEed,Derek,Jacobs,01792343726,60 Penrice Street,Morriston,Swansea,SA6 8MO,16/05/1980
+CUS619296,mstewart@outlook.com,cinemapass123,Michael,Stewart,07927345123,14 Elizabeth Lane,Selly Oak,Birmingham,B29 5SA,01/01/1980
+CUS761342,jackandrewmort123@outlook.com,L3b8kufmaFLB,Jack,Mort,01723457895,2 Rogers Pass,Ynysforgan,Swansea,BD97 1AG,01/10/2003
+CUS777121,darrellchurch@outlook.com,churchill2000!,Darrel,Churchill,07896757324,20 Liz Lane,Ynystawe,Swansea,SA4 6RM,04/05/2000
+CUS813673,lhobbs80@outlook.com,memorablepassword123,Laurel,Hobbs,01722192342,16 Patriot Avenue,Ynystawe,Swansea,SA3 4CA,04/07/1980
+CUS866184,harry_theroux@outlook.com,HTcinemainc99,Harry,Theroux,01792837283,30 Park Road,Birchgrove,Swansea,SA7 6RW,01/02/1999
+MAN198731,mikecinemainc@hotmail.com,6r8jX2%s4^s%,Mike,Wayne,07219829322,10 Garth Road,Ynystawe,Swansea,SA4 6RD,02/10/1979
+MAN276961,sueparsons1980@outlook.com,3*bfNSdSkJ@F,Sue,Parsons,01792832948,45 Elizabeth Lane,Gorseinon,Swansea,SA6 5JS,10/08/1980
+MAN607399,shirleycinemainc@outlook.com,bd8q238LKkd,Shirley,Pond,01798459384,50 Collins Road,Birchgrove,Swansea,SA3 7TW,16/09/1985
+MAN644932,rhylanddavies@gmail.com,rhylandmanager1985,Rhyland,Davies,01792473829,42 Brooklyn Avenue,Ynystawe,Swansea,SA6 5RC,21/04/1985
+WOR329219,joewilliams@outlook.com,phRe2=K@Aq26,Joe,Williams,01792345928,30 Bannerman Lane,Morriston,Swansea,SA3 3SW,04/09/1995
+WOR528416,queen1993@gmail.com,9zmdk+X4mb9v,Sara,Queen,07896429483,60 Garnett Road,Gorseinon,Swansea,SA5 5GS,20/05/1993
+WOR605242,nathanrogers@gmail.com,gKdXpe7cR%*e,Nathan,Rogers,01727321023,4 Turner Avenue,Alltwen,Pontardawe,SA4 5PO,15/12/1998
